@@ -78,6 +78,12 @@ location ~* ^\/(?!cache).*\.(?:jpg|jpeg|gif|png|ico|cur|gz|svg|svgz|mp4|ogg|ogv|
 }
 ```
 
+### Versions
+|Version|Laravel|
+|---|---|
+|3.0|Laravel 11|
+|3.1|Laravel 12 and 13|
+
 ## License
 
 Intervention Imagecache Class is licensed under the [MIT License](http://opensource.org/licenses/MIT).
